@@ -47,6 +47,14 @@ You should have basic knowledge of Python and be comfortable working in Jupyter 
     (data_viz_workshop) ~/python-data-viz-workshop$
     ```
 
+If you need to remoe an environemt
+
+```shell
+(data_viz_workshop) ~/python-data-viz-workshop$conda deactivte
+- cond env list
+- conda env remove -n YOUR_ENV_NAME
+```
+
 4. Launch JupyterLab:
 
     ```shell
