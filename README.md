@@ -51,8 +51,12 @@ If you need to remoe an environemt
 
 ```shell
 (data_viz_workshop) ~/python-data-viz-workshop$conda deactivte
-- cond env list
+- conda env list
 - conda env remove -n YOUR_ENV_NAME
+```
+If you get error messages
+```shell
+conda update -n base -c defaults conda
 ```
 
 4. Launch JupyterLab:
