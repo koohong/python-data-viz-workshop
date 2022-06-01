@@ -73,6 +73,9 @@ conda update -n base -c defaults conda
 
     ![check env](./media/env_check.png)
 
+7. You may get the following
+
+    ![check env packages](./media/need_more_packages.png)
 ---
 
 ## About the Author
