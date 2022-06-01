@@ -38,7 +38,7 @@ You should have basic knowledge of Python and be comfortable working in Jupyter 
     ![location of clone button in GitHub](./media/clone_button.png)
 
 3. Create and activate a conda virtual environment (on Windows, these commands should be run in **Anaconda Prompt**):
-
+- Note that when you create `the virtual environment` (see below code) for the first time, it can a while
     ```shell
     $ cd python-data-viz-workshop
     ~/python-data-viz-workshop$ conda install mamba -n base -c conda-forge
@@ -47,7 +47,7 @@ You should have basic knowledge of Python and be comfortable working in Jupyter 
     (data_viz_workshop) ~/python-data-viz-workshop$
     ```
 
-If you need to remoe an environemt
+If you need to remove an environemt
 
 ```shell
 (data_viz_workshop) ~/python-data-viz-workshop$conda deactivte
